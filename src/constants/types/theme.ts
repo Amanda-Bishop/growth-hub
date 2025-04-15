@@ -234,27 +234,6 @@ export interface ThemeAssets {
   logoWhite: ImageSourcePropType;
   header: ImageSourcePropType;
   background: ImageSourcePropType;
-
-  card1: ImageSourcePropType;
-  card2: ImageSourcePropType;
-  card3: ImageSourcePropType;
-  card4: ImageSourcePropType;
-  card5: ImageSourcePropType;
-
-  photo1: ImageSourcePropType;
-  photo2: ImageSourcePropType;
-  photo3: ImageSourcePropType;
-  photo4: ImageSourcePropType;
-  photo5: ImageSourcePropType;
-  photo6: ImageSourcePropType;
-  carousel1: ImageSourcePropType;
-
-  avatar1: ImageSourcePropType;
-  avatar2: ImageSourcePropType;
-
-  x5: ImageSourcePropType;
-  gle: ImageSourcePropType;
-  tesla: ImageSourcePropType;
 }
 
 export interface ThemeFonts {
