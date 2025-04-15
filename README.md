@@ -8,7 +8,7 @@ Our algorithm will recommend courses based on users’ topic preferences and, un
 
 ## Installation
 
-run `npm install` or `yarn install` and then `expo start` to start the project
+run `npm install` or `yarn install` and then `npx expo start` to start the project
 
 ## Running the App
 
