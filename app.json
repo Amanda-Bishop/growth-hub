@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "Capstone Growth Hub",
+    "slug": "capstone-Growth-Hub",
+    "description": "Growth Hub",
+    "primaryColor": "#F20089",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/reverseGHLogoNoBackground.png",
+    "splash": {
+      "image": "./assets/background@3x.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F20089"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/8d6c5937-be85-49de-b0ed-2dcdfc722e02"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/reverseGHLogoNoBackground.png",
+        "backgroundColor": "#F20089"
+      },
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-localization"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "8d6c5937-be85-49de-b0ed-2dcdfc722e02"
+      }
+    },
+    "owner": "mitkoeas",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
+  }
+}
