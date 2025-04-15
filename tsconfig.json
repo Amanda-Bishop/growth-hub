@@ -1,0 +1,13 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "strict": true,
+    "module": "esnext",  // required for dynamic imports
+    "moduleResolution": "node", // required for dynamic imports, ensures Node.js-style resolution
+    "target": "esnext", // required for dynamic imports, supports modern JavaScript features
+    "paths": {
+      "@firebase/auth": ["./node_modules/@firebase/auth/dist/index.rn.d.ts"]
+    }
+  }
+}
