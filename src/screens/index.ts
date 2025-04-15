@@ -1,0 +1,15 @@
+export {default as Home} from './Home';
+export {default as Profile} from './Profile';
+export {default as FriendProfile} from './FriendProfile';
+export {default as FriendList} from './FriendList';
+export {default as Register} from './Register';
+export {default as Login} from './Login';
+export {default as Challenges} from './Challenges';
+export {default as Courses} from './Courses';
+export {default as Survey} from './Survey';
+export {default as FriendsFeed} from './FriendsFeed';
+export {default as Course} from './Course';
+export {default as CourseQuiz} from './CourseQuiz';
+export {default as Feedback} from './Feedback';
+export {default as LessonQuiz} from './LessonQuiz';
+export {default as Resources} from './Resources';
