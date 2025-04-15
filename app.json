@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Capstone Growth Hub",
-    "slug": "capstone-Growth-Hub",
+    "slug": "growth-hub",
     "description": "Growth Hub",
     "primaryColor": "#F20089",
     "version": "1.0.0",
@@ -41,10 +41,10 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "8d6c5937-be85-49de-b0ed-2dcdfc722e02"
+        "projectId": "2b7c8c44-fce7-44f9-8d27-88d2aad6edf5"
       }
     },
-    "owner": "mitkoeas",
+    "owner": "amanda02bishop",
     "runtimeVersion": {
       "policy": "appVersion"
     }
